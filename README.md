@@ -16,7 +16,7 @@ Examining a cross-sectional time-window snapshots allows a better understanding.
 
 **Expert Weights Heatmap** <a name="expert-weights-heatmap"></a>
 The below diagram depicts corresponding weighting ranks of the 7 experts corresponding to the 3 randomly sampled week long trading windows with market mimicking different (bull, bear, neutral) regimes shown [above](#fmm-task). 
-<!--[Expert Weights Heatmap](./imgs/expert_weights_heatmap_coolwarm.pdf)->
+
 ![Expert Weights Heatmap](./imgs/expert_weights_heatmap_coolwarm.png)
 
 
