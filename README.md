@@ -2,13 +2,21 @@
 
 Filtered not Mixed: Filtering-Based Online Gating for Mixture of Large Language Models
 
+The following is a conceptual flow showing how MoE-F works: 
 ![Mixture of Experts](./imgs/mixture_of_experts_v3_8fps.gif)
 
 
-## Expert Weights Heatmap
+Examining a cross-sectional time-window snapshots allows a better understanding. 
+
+![Market Movement Plot](./imgs/market_movement_plot.png)
 
 
-[View Expert Weights Heatmap (PDF)](./imgs/expert_weights_heatmap_coolwarm.pdf)
 
-![Market Movement Plot (PNG)](./imgs/market_movement_plot.png)
+## Expert Weights Heatmap <a name="expert-weights-heatmap">
+
+<!--
+[Expert Weights Heatmap](./imgs/expert_weights_heatmap_coolwarm.pdf)
+->
+![Expert Weights Heatmap](./imgs/expert_weights_heatmap_coolwarm.png)
+
 
